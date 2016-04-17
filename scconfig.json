@@ -52,6 +52,10 @@
 
         // mapping items and files to project when importing a website
         "website-to-project": {
+        },
+        
+        "ignore-directories" : {
+            "git" : ".git"
         }
     },
 
